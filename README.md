@@ -1,5 +1,5 @@
 # Discord-Selfbot-Using-Discord.js-
-(Using discord.js-selfbot-v13, it's that simple)
+(Using discord.js-selfbot-v13 and chatgpt api, it's that simple)
 
 1. Install Visual Studio Code - https://code.visualstudio.com
 2. Install Node.js - https://nodejs.org/en/download
